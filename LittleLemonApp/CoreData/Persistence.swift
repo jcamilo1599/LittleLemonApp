@@ -26,7 +26,7 @@ struct PersistenceController {
         dish.descriptionDish = "The famous greek salad of crispy lettuce, peppers, olives, our Chicago."
         dish.price = "10"
         dish.category = "starters"
-        dish.image = "...greek-salad.jpg"
+        dish.image = "https://github.com/jcamilo1599/LittleLemonApp/blob/main/LittleLemonApp/Assets.xcassets/greek-salad.imageset/greek-salad.png?raw=true"
         return dish
     }
 }
