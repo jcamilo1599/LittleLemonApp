@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CF47B5B22C2C99270008C350 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = CF47B5B12C2C99270008C350 /* .gitignore */; };
+		CF47B5B42C2C9C080008C350 /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = CF47B5B32C2C9C080008C350 /* menu.json */; };
 		EC6D801129C3C38900A6275C /* LittleLemonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6D801029C3C38900A6275C /* LittleLemonApp.swift */; };
 		EC6D801529C3C38A00A6275C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC6D801429C3C38A00A6275C /* Assets.xcassets */; };
 		EC6D801829C3C38A00A6275C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC6D801729C3C38A00A6275C /* Preview Assets.xcassets */; };
@@ -31,6 +32,7 @@
 
 /* Begin PBXFileReference section */
 		CF47B5B12C2C99270008C350 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		CF47B5B32C2C9C080008C350 /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
 		EC6D800D29C3C38900A6275C /* LittleLemonApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LittleLemonApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC6D801029C3C38900A6275C /* LittleLemonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LittleLemonApp.swift; sourceTree = "<group>"; };
 		EC6D801429C3C38A00A6275C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 			children = (
 				EC6D800F29C3C38900A6275C /* LittleLemonApp */,
 				CF47B5B12C2C99270008C350 /* .gitignore */,
+				CF47B5B32C2C9C080008C350 /* menu.json */,
 				EC6D800E29C3C38900A6275C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 			files = (
 				EC6D801829C3C38A00A6275C /* Preview Assets.xcassets in Resources */,
 				CF47B5B22C2C99270008C350 /* .gitignore in Resources */,
+				CF47B5B42C2C9C080008C350 /* menu.json in Resources */,
 				EC6D801529C3C38A00A6275C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
